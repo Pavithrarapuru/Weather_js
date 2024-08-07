@@ -26,12 +26,12 @@ To get started with the Weather App, follow these steps:
    ```bash
    git clone https://github.com/Pavithrarapuru/weather-app.git
 
-How to Use
-Search for Weather:
-Enter the name of a city in the search bar and click the "Search" button to get weather information for that city.
+## How to Use
+## Search for Weather:
+  Enter the name of a city in the search bar and click the "Search" button to get weather information for that city.
 
-Geolocation:
+## Geolocation:
 Click the "Use My Location" button to automatically retrieve weather data based on your current location.
 
-Temperature Unit Conversion:
+## Temperature Unit Conversion:
 Toggle between Celsius and Fahrenheit units to view temperature in your preferred unit.
